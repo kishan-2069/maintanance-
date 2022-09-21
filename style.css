@@ -1832,6 +1832,7 @@ textarea.textarea-txt {
     #logo {
         display: block;
         text-align: center;
+        background-image: url("images/KyszTech_Final_Logo.png");
     }
     #hexagon-overlay {
         top: 93px;
